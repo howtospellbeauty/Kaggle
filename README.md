@@ -8,6 +8,8 @@ In order to be more proficient in data analysis or use deep learning to solve pr
 
 ## [Titanic Data Science Solutions](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook)
 
+Language: Python (Jupyter Notebook)
+
 Solution: [There](Titanic)
 
 * Exercise Contest Solution Workflow (Seven Phases)
@@ -21,3 +23,4 @@ Solution: [There](Titanic)
 
 
 ## [MNIST with PyTorch](https://www.kaggle.com/code/josephvm/mnist-with-pytorch)
+Language: Python
