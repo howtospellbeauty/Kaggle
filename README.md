@@ -8,6 +8,8 @@ In order to be more proficient in data analysis or use deep learning to solve pr
 
 ## [Titanic Data Science Solutions](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook)
 
+Aim: Familiar with the process of data analysis
+
 Language: Python (Jupyter Notebook)
 
 Solution: [There](Titanic)
@@ -24,6 +26,16 @@ Solution: [There](Titanic)
 
 ## [MNIST with PyTorch](https://www.kaggle.com/code/josephvm/mnist-with-pytorch)
 
+Aim: MNIST classification by using PyTorch
+
 Language: Python
 
 Solution: [There](MNIST)
+
+* [Folder1: final_model](MNIST)
+  * Comments are not included.
+  * The structure is relatively tidy 💗.
+  
+* [Folder2: original_confusion_withcomment](MNIST)
+  * Contains a lot of comments.
+  * The structure is a bit messy.
