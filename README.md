@@ -23,4 +23,7 @@ Solution: [There](Titanic)
 
 
 ## [MNIST with PyTorch](https://www.kaggle.com/code/josephvm/mnist-with-pytorch)
+
 Language: Python
+
+Solution: [There](MNIST)
