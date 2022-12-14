@@ -32,10 +32,10 @@ Language: Python
 
 Solution: [There](MNIST)
 
-* [Folder1: final_model](MNIST)
+* [Folder1: final_model](MNIST\final_model)
   * Comments are not included.
   * The structure is relatively tidy 💗.
   
-* [Folder2: original_confusion_withcomment](MNIST)
+* [Folder2: original_confusion_withcomment](MNIST\original_confusion_withcomment)
   * Contains a lot of comments.
   * The structure is a bit messy.
